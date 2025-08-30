@@ -1,5 +1,5 @@
 ## Hi there 👋
-![snake animation](https://github.com/Lamyaa439/Lamyaa439/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/Lamyaa439/Lamyaa439/blob/output/github-snake-dark.svg)
 <!--
 **Lamyaa439/Lamyaa439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
